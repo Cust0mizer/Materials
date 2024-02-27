@@ -1,0 +1,124 @@
+using System.Text;
+
+namespace ConsoleApp22
+{
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            StringBuilder stringBuilder = new StringBuilder();
+            while (true)
+            {
+                Menu();
+                string a = Console.ReadLine();
+                int.TryParse(a, out int b);
+
+                if (b == 1)
+                {
+                    TypeLine();
+                    string c = Console.ReadLine();
+                    int.TryParse(c, out int v);
+
+                    if (v == 1)
+                    {
+                        Console.WriteLine("Введите ваш текст\n");
+                        string g = Console.ReadLine();
+                        stringBuilder.Append(g);
+                    }
+                    else if (v == 2)
+                    {
+                        Console.WriteLine("Введите ваш текст\n");
+                        string g = Console.ReadLine();
+                        stringBuilder.AppendLine(g);
+                    }
+                }
+                else if (b == 2 && stringBuilder.Length != 0)
+                {
+                    Console.WriteLine(stringBuilder);
+                }
+                else if (b == 2 && stringBuilder.Length == 0)
+                {
+                    Console.WriteLine("Вы ничего не ввели!!!!");
+                }
+                if (b==3)
+                {
+                    if (stringBuilder.Length == 0) Console.WriteLine("Там пусто!!!");
+                    else
+                    {
+                        Clear();
+                        string j = Console.ReadLine();
+                        int.TryParse(j, out int k);
+                        if (k == 1) stringBuilder.Clear();
+                        else continue;
+                    }
+                }
+                if (b == 4)
+                {
+                    if (stringBuilder.Length == 0) Console.WriteLine("Там пусто!!!");
+                    else
+                    {
+                        Console.WriteLine(stringBuilder);
+                        Repl1();
+                        string e = Console.ReadLine();
+                        Repl2();
+                        string r = Console.ReadLine();
+                        Console.WriteLine("Вы хотите заменить все " + e +" на "+ r+"?");
+                        Console.WriteLine("Подтвердить?\n 1 - Да\n2 - Нет");
+                        string u = Console.ReadLine();
+                        int.TryParse(u, out int l);
+                        if (l == 1)
+                        {
+                            stringBuilder.Replace(e, r);
+                            Console.WriteLine(stringBuilder);
+                        }
+                        else continue;
+                    }
+                }
+                if(b==5)
+                {
+                    Console.Clear();
+                }
+            }
+            static void Menu()
+            {
+                Console.WriteLine("-------------------------");
+                Console.WriteLine("|1 - Ввод текста        |");
+                Console.WriteLine("|2 - Вывод текста       |");
+                Console.WriteLine("|3 - Удалить весь текст |");
+                Console.WriteLine("|4 - Заменить текст     |");
+                Console.WriteLine("|5 - Отчистить экран    |");
+                Console.WriteLine("-------------------------");
+
+            }
+            static void TypeLine()
+            {
+                Console.WriteLine("1 - Line\n2 - NewLine");
+            }
+            static void Clear()
+            {
+                Console.WriteLine("Вы уверены что хотите удалить весь текст?\n 1 - Да\n 2 - Нет");
+            }
+            static void Repl1()
+            {
+                Console.WriteLine("Какую строку вы хотите заменить?");
+            }
+            static void Repl2()
+            {
+                Console.WriteLine("На что вы хотите заменить ее?");
+            }
+        }
+    }
+}
+
+
+
+
+Описание задачи:
+
+Улучшение читаемости: Разделите код на отдельные методы, каждый из которых будет выполнять конкретную задачу. Это улучшит читаемость и упростит дальнейшее тестирование и расширение функциональности 1.
+Удаление дублирующегося кода: Идентифицируйте и устраните дублирование кода, создавая обобщенные методы, которые могут быть вызваны в разных частях программы 1.
+Улучшение обработки ввода: Вместо того чтобы напрямую использовать Console.ReadLine() и int.TryParse, создайте методы для чтения и парсинга ввода пользователя, которые будут обрабатывать ошибки и повторные попытки ввода 1.
+Использование перечислений: Замените использование числовых констант для меню и действий на перечисления. Это улучшит читаемость кода и сделает его более устойчивым к ошибкам 1.
+Оптимизация циклов: Пересмотрите логику циклов и убедитесь, что они выполняют только необходимые действия, избегая лишних проверок и условий 1.
+Повышение модульности: Разделите класс Program на несколько классов, если это возможно, чтобы сделать код более модульным и легким для тестирования 1.
