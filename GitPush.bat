@@ -1,3 +1,4 @@
 git add --all
-git commit -m "update"
+set /p commitMessage=Enter a comment for the commit: 
+git commit -m "%commitMessage%"
 git push
