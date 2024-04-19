@@ -1,4 +1,4 @@
-$commitMessage = Read-Host -Prompt 'Enter a comment for the commit'
 git add --all
-git commit -m $commitMessage
+set /p commitMessage=Enter a comment for the commit: 
+git commit -m "%commitMessage%"
 git push
