@@ -7,6 +7,11 @@
       <Shortcut>Inject</Shortcut>
     </Header>
     <Snippet>
+      <Imports>
+        <Import>
+          <Namespace>Zenject</Namespace>
+        </Import>
+      </Imports>
       <Declarations>
         <Literal>
           <ID>ServicesName</ID>
@@ -16,8 +21,6 @@
       </Declarations>
       <Code Language="CSharp">
         <![CDATA[
-using Zenject;
-
 [Inject]
 private void Inject($ServicesName$) {
 

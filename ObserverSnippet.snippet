@@ -1,0 +1,52 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Inject Method Snippet</Title>
+      <Author>Evgeny</Author>
+      <Description>Generates an Inject method with a Services parameter.</Description>
+      <Shortcut>MyObserv</Shortcut>
+    </Header>
+    <Snippet>
+      <Imports>
+        <Import>
+          <Namespace>Assets.Scripts.Common</Namespace>
+          <Namespace>System</Namespace>
+        </Import>
+      </Imports>
+      <Declarations>
+        <Literal>
+          <ID>PrefixName</ID>
+          <ToolTip>Name of the Services parameter</ToolTip>
+          <Default>Prefix</Default>
+        </Literal>        
+        <Literal>
+          <ID>PostfixName</ID>
+          <Default>Postfix</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="CSharp">
+        <![CDATA[
+    public class $PrefixName$Observer$PostfixName$ : IObserver, IDisposable {
+        public $PrefixName$Observer$PostfixName$(
+
+        ) {
+
+        }
+
+        public void Subscribe() {
+
+        }
+
+        public void Dispose() {
+
+        }
+
+        public void UnSubscribe() {
+            Dispose();
+        }
+    }
+                ]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
