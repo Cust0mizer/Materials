@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "2fa8675aa1d70f4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a66a009216c7b12b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8cd654a24fd9d3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fa67a3256400d24",
+    "type": "split",
+    "children": [
+      {
+        "id": "37565d75ad29de35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc7625b17e1a355a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1db4b91f61f2a95f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0174ad53c4e4d38d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec57b29a7b8da662",
+    "type": "split",
+    "children": [
+      {
+        "id": "b69423cf3a5399ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89da108fbc4fa806",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28b889d7f454c1fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2292ed29632863c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f17cedf3cd6f0dfd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fc7625b17e1a355a",
+  "lastOpenFiles": [
+    "2024-05-27.md",
+    "Как выводить переменные в консоль, форматирование текста.md",
+    "L.md",
+    "Слова.md",
+    "T.md",
+    "B.md",
+    "H.md",
+    "M.md",
+    "J.md",
+    "C.md",
+    "G.md",
+    "A.md",
+    "Y.md",
+    "E.md",
+    "W.md",
+    "Английский..md",
+    "Шарп.md",
+    "Untitled.canvas",
+    "Типы переменных в шарпе.md",
+    "Переменные..md",
+    "Вывод информации в консоль.md",
+    "Что такое Escape последовательности..md",
+    "Схема простого приложения..md",
+    "Модификаторы доступа..md",
+    "Что такое метод.md",
+    "Статика в шарпе.md",
+    "Основной синтаксис..md",
+    "Untitled"
+  ]
+}
