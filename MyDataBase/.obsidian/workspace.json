@@ -62,14 +62,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.2 Установка технологии Git на ПК..md",
+                "file": "Шарп/Циклы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f0b3d91f5b7284e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Операторы циклов.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2 Установка технологии Git на ПК..md",
+                "file": "Операторы циклов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.2 Установка технологии Git на ПК..md",
+                "file": "Операторы циклов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.2 Установка технологии Git на ПК..md"
+                "file": "Операторы циклов.md"
               }
             }
           },
@@ -207,12 +219,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "760c4eb9dac5fc80",
+  "active": "4f0b3d91f5b7284e",
   "lastOpenFiles": [
-    "Github/2. Githube Заголовок.md",
-    "2.2 Установка технологии Git на ПК..md",
-    "Github/2.1 Регистрация на GitHub..md",
+    "Шарп/Циклы.md",
+    "Операторы циклов.md",
     "Шарп/1. Шарп заголовок.md",
+    "2.2 Установка технологии Git на ПК..md",
+    "Github/2. Githube Заголовок.md",
+    "Github/2.1 Регистрация на GitHub..md",
     "T.md",
     "Github",
     "Untitled.md",
@@ -236,8 +250,6 @@
     "J.md",
     "C.md",
     "G.md",
-    "A.md",
-    "Y.md",
     "Untitled.canvas"
   ]
 }
