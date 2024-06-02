@@ -4,83 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b0571e11599d62d8",
+        "id": "6af0773b4ace4ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "b11d886388251dcc",
+            "id": "26f709ce812681ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Английский оглавление..md",
+                "file": "Тестирование/00. Тестирование заголовок..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6bd37dfae096a2a9",
+            "id": "3115edffba1e08b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Граматика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78bafd125f8d4967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Местоимения.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "781a6a86b104c18d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github/2. Githube Заголовок.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "760c4eb9dac5fc80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шарп/Циклы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f0b3d91f5b7284e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Операторы циклов.md",
+                "file": "Тестирование/Теория тестирования.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Операторы циклов.md",
+                "file": "Тестирование/Теория тестирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Операторы циклов.md",
+                "file": "Тестирование/Теория тестирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Операторы циклов.md"
+                "file": "Тестирование/Теория тестирования.md"
               }
             }
           },
@@ -229,28 +180,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f0b3d91f5b7284e",
+  "active": "3115edffba1e08b7",
   "lastOpenFiles": [
-    "Шарп/Циклы.md",
-    "Операторы циклов.md",
-    "Шарп/1. Шарп заголовок.md",
-    "2.2 Установка технологии Git на ПК..md",
-    "Github/2. Githube Заголовок.md",
-    "Github/2.1 Регистрация на GitHub..md",
-    "T.md",
+    "Тестирование/По принципам работы с приложением.md",
+    "Тестирование/Теория тестирования.md",
+    "Тестирование/00. Тестирование заголовок..md",
+    "Тестирование/Тестовая документация.md",
+    "Тестирование/В зависимости от целей тестирования.md",
+    "Тестирование/Виды тестирования.md",
+    "Тестирование/В зависимости от исполнителей.md",
+    "Тестирование/По уровню функционального тестирования.md",
+    "Тестирование/По степени автоматизации.md",
+    "Тестирование/По уровню детализации приложения.md",
+    "Тестирование/По доступу к архитектуре.md",
+    "Тестирование/По запуску кода на исполнение..md",
+    "Тестирование/Основные фазы тестирования.md",
+    "Шарп/00. Шарп заголовок.md",
+    "Базы данных/00 Базы данных оглавление..md",
+    "Теория/Паттерны проектирования.md",
+    "Теория/Порождающие.md",
+    "Теория/Фабричный метод.md",
+    "Теория/Теория оглавление..md",
+    "Теория/Принципы.md",
+    "Теория/Одиночка.md",
+    "Attachments/Pasted image 20240602143025.png",
+    "Теория/Yangni.md",
+    "Теория/Kiss.md",
+    "Теория/DRY.md",
+    "Теория/Solid.md",
+    "Базы данных/Создание таблицы в базе данных.md",
+    "Attachments/Pasted image 20240602142547.png",
+    "Attachments/Pasted image 20240602142523.png",
+    "Attachments/Pasted image 20240602142500.png",
+    "Attachments/Pasted image 20240602142352.png",
+    "Attachments/Pasted image 20240602140309.png",
+    "Attachments/Pasted image 20240602142005.png",
+    "Attachments/Pasted image 20240602142035.png",
+    "Attachments/Pasted image 20240602142137.png",
+    "Attachments/Pasted image 20240602142201.png",
+    "Базы данных",
+    "Attachments",
+    "Untitled.canvas",
+    "Английский",
+    "Тестирование",
+    "Теория",
     "Github",
     "Шарп",
-    "ExampleLog.pdf",
-    "Слова.md",
-    "Английский..md",
-    "2024-05-27.md",
-    "L.md",
-    "B.md",
-    "H.md",
-    "M.md",
-    "J.md",
-    "C.md",
-    "G.md",
-    "Untitled.canvas"
+    "ExampleLog.pdf"
   ]
 }
