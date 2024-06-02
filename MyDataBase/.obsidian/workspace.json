@@ -42,9 +42,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "781a6a86b104c18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github/2. Githube Заголовок.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "760c4eb9dac5fc80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шарп/Циклы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f0b3d91f5b7284e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Операторы циклов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -111,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Местоимения.md",
+                "file": "Операторы циклов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Местоимения.md",
+                "file": "Операторы циклов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Местоимения.md"
+                "file": "Операторы циклов.md"
               }
             }
           },
@@ -193,40 +229,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78bafd125f8d4967",
+  "active": "4f0b3d91f5b7284e",
   "lastOpenFiles": [
-    "G.md",
-    "E.md",
-    "D.md",
-    "C.md",
-    "B.md",
-    "A.md",
-    "Английский/Граматика.md",
-    "Местоимения.md",
-    "Английский/Английский оглавление..md",
-    "Английский/To be.md",
-    "Шарп/Условные операторы.md",
-    "Шарп/00. Шарп заголовок.md",
-    "Шарп/Вывод информации в консоль..md",
-    "Что такое Escape последовательности..md",
-    "Обработка.md",
-    "Английский/Слова.md",
-    "Английский/A.md",
-    "Английский",
-    "Шарп/Тернарный оператор.md",
-    "Шарп/Условный оператор Switch Case.md",
-    "Шарп/If, else if, else.md",
-    "Тестирование/Qa-QC.md",
-    "Тестирование/00. Тестирование заголовок..md",
-    "Тестирование/Верификация и валидация.md",
-    "Тестирование/Дефект - Bug.md",
-    "Шарп/Enum.md",
-    "Шарп/Как выводить переменные в консоль, форматирование текста.md",
-    "Тестирование",
-    "Теория",
+    "Шарп/Циклы.md",
+    "Операторы циклов.md",
+    "Шарп/1. Шарп заголовок.md",
+    "2.2 Установка технологии Git на ПК..md",
+    "Github/2. Githube Заголовок.md",
+    "Github/2.1 Регистрация на GitHub..md",
+    "T.md",
     "Github",
     "Шарп",
     "ExampleLog.pdf",
+    "Слова.md",
+    "Английский..md",
+    "2024-05-27.md",
+    "L.md",
+    "B.md",
+    "H.md",
+    "M.md",
+    "J.md",
+    "C.md",
+    "G.md",
     "Untitled.canvas"
   ]
 }
