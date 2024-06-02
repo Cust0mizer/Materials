@@ -8,48 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b54af2f0fa2307dc",
+            "id": "b11d886388251dcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп/Условные операторы.md",
+                "file": "Английский/Английский оглавление..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07151f3cedb8d29c",
+            "id": "6bd37dfae096a2a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп/00. Шарп заголовок.md",
+                "file": "Английский/Граматика.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0b2329f689878102",
+            "id": "78bafd125f8d4967",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тернарный оператор.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "141f01d7fcf2f802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шарп/Enum.md",
+                "file": "Местоимения.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тернарный оператор.md",
+                "file": "Местоимения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тернарный оператор.md",
+                "file": "Местоимения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тернарный оператор.md"
+                "file": "Местоимения.md"
               }
             }
           },
@@ -177,9 +166,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "44b0fd4c022df4d2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,13 +189,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b2329f689878102",
+  "active": "78bafd125f8d4967",
   "lastOpenFiles": [
+    "G.md",
+    "E.md",
+    "D.md",
+    "C.md",
+    "B.md",
+    "A.md",
+    "Английский/Граматика.md",
+    "Местоимения.md",
+    "Английский/Английский оглавление..md",
+    "Английский/To be.md",
+    "Шарп/Условные операторы.md",
     "Шарп/00. Шарп заголовок.md",
-    "Тернарный оператор.md",
+    "Шарп/Вывод информации в консоль..md",
+    "Что такое Escape последовательности..md",
+    "Обработка.md",
+    "Английский/Слова.md",
+    "Английский/A.md",
+    "Английский",
+    "Шарп/Тернарный оператор.md",
     "Шарп/Условный оператор Switch Case.md",
     "Шарп/If, else if, else.md",
     "Тестирование/Qa-QC.md",
@@ -206,23 +221,7 @@
     "Тестирование/Верификация и валидация.md",
     "Тестирование/Дефект - Bug.md",
     "Шарп/Enum.md",
-    "Шарп/Условные операторы.md",
     "Шарп/Как выводить переменные в консоль, форматирование текста.md",
-    "Шарп/Сниппет - Snippet.md",
-    "Шарп/Схема простого приложения..md",
-    "Шарп/Основной синтаксис..md",
-    "Шарп/Математические действия на языке.md",
-    "Класс Math.md",
-    "D.md",
-    "Шарп/Обработка пользовательского ввода.md",
-    "Шарп/Типы данных..md",
-    "S.md",
-    "Слова.md",
-    "E.md",
-    "W.md",
-    "T.md",
-    "C.md",
-    "P.md",
     "Тестирование",
     "Теория",
     "Github",
