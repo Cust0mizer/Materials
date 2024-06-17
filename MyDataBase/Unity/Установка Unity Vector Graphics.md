@@ -1,0 +1,1 @@
+Для установки нужно через Unity Package Manager добавить com.unity.vectorgraphics
