@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6af0773b4ace4ca6",
+        "id": "a66a009216c7b12b",
         "type": "tabs",
         "children": [
           {
-            "id": "26f709ce812681ab",
+            "id": "760c4eb9dac5fc80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тестирование/00. Тестирование заголовок..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3115edffba1e08b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тестирование/Теория тестирования.md",
+                "file": "2024-06-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тестирование/Теория тестирования.md",
+                "file": "2024-06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тестирование/Теория тестирования.md",
+                "file": "2024-06-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестирование/Теория тестирования.md"
+                "file": "2024-06-17.md"
               }
             }
           },
@@ -153,17 +140,9 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "44b0fd4c022df4d2",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -176,56 +155,55 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3115edffba1e08b7",
+  "active": "760c4eb9dac5fc80",
   "lastOpenFiles": [
-    "Тестирование/По принципам работы с приложением.md",
-    "Тестирование/Теория тестирования.md",
-    "Тестирование/00. Тестирование заголовок..md",
-    "Тестирование/Тестовая документация.md",
+    "Attachments/Pasted image 20240617143624.png",
+    "Attachments/Pasted image 20240617143603.png",
+    "Attachments/Pasted image 20240617143541.png",
+    "Attachments/Pasted image 20240617143442.png",
+    "Attachments/Pasted image 20240617143346.png",
+    "Attachments/Pasted image 20240617143316.png",
+    "Attachments/Pasted image 20240617143251.png",
+    "Attachments/Pasted image 20240617143148.png",
+    "Шарп/Циклы.md",
+    "2024-06-17.md",
+    "Тестирование/Тестовые среды.md",
+    "Тестирование/Верификация и валидация.md",
     "Тестирование/В зависимости от целей тестирования.md",
+    "Тестирование/Тестовая документация.md",
+    "Тестирование/Теория тестирования.md",
+    "Тестирование/Срочность.md",
+    "Тестирование/Серьезность бага.md",
+    "Тестирование/Принципы тестирования.md",
+    "Тестирование/По уровню функционального тестирования.md",
+    "Тестирование/По уровню детализации приложения.md",
+    "Тестирование/По степени автоматизации.md",
+    "Тестирование/По принципам работы с приложением.md",
+    "Тестирование/По запуску кода на исполнение..md",
+    "Тестирование/По доступу к архитектуре.md",
+    "Тестирование/Основные фазы тестирования.md",
+    "Тестирование/Дефект - Bug.md",
     "Тестирование/Виды тестирования.md",
     "Тестирование/В зависимости от исполнителей.md",
-    "Тестирование/По уровню функционального тестирования.md",
-    "Тестирование/По степени автоматизации.md",
-    "Тестирование/По уровню детализации приложения.md",
-    "Тестирование/По доступу к архитектуре.md",
-    "Тестирование/По запуску кода на исполнение..md",
-    "Тестирование/Основные фазы тестирования.md",
-    "Шарп/00. Шарп заголовок.md",
-    "Базы данных/00 Базы данных оглавление..md",
-    "Теория/Паттерны проектирования.md",
+    "Тестирование/Qa-QC.md",
+    "Тестирование/00. Тестирование заголовок..md",
+    "Тестирование",
     "Теория/Порождающие.md",
     "Теория/Фабричный метод.md",
     "Теория/Теория оглавление..md",
-    "Теория/Принципы.md",
-    "Теория/Одиночка.md",
+    "Теория",
+    "Базы данных",
+    "Английский",
     "Attachments/Pasted image 20240602143025.png",
-    "Теория/Yangni.md",
-    "Теория/Kiss.md",
-    "Теория/DRY.md",
-    "Теория/Solid.md",
-    "Базы данных/Создание таблицы в базе данных.md",
     "Attachments/Pasted image 20240602142547.png",
     "Attachments/Pasted image 20240602142523.png",
-    "Attachments/Pasted image 20240602142500.png",
-    "Attachments/Pasted image 20240602142352.png",
-    "Attachments/Pasted image 20240602140309.png",
-    "Attachments/Pasted image 20240602142005.png",
-    "Attachments/Pasted image 20240602142035.png",
-    "Attachments/Pasted image 20240602142137.png",
-    "Attachments/Pasted image 20240602142201.png",
-    "Базы данных",
     "Attachments",
-    "Untitled.canvas",
-    "Английский",
-    "Тестирование",
-    "Теория",
     "Github",
     "Шарп",
-    "ExampleLog.pdf"
+    "ExampleLog.pdf",
+    "Untitled.canvas"
   ]
 }
