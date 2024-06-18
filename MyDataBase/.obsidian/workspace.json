@@ -38,19 +38,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github/Консоль/00 Работа с консолью Git. Заголовок..md",
+                "file": "Unity/Fmod/00 Fmod.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "089febea545a1a52",
+            "id": "58fa2400fda665c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-17.md",
+                "file": "2024-06-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шарп/00. Шарп заголовок.md",
+                "file": "2024-06-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шарп/00. Шарп заголовок.md",
+                "file": "2024-06-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шарп/00. Шарп заголовок.md"
+                "file": "2024-06-18.md"
               }
             }
           },
@@ -207,14 +206,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1db4b91f61f2a95f",
+  "active": "58fa2400fda665c8",
   "lastOpenFiles": [
+    "Unity/Fmod/FMOD API.md",
+    "Unity/Fmod/00 Fmod.md",
+    "Github/Консоль/00 Работа с консолью Git. Заголовок..md",
+    "conflict-files-obsidian-git.md",
+    "Шарп/00. Шарп заголовок.md",
+    "Unity/Установка Fmod.md",
+    "Unity/Установка Fmod и интеграция его с Unity.md",
+    "Unity/Fmod/Параметры в Fmod.md",
+    "Unity/Fmod/Основные типы параметров в FMOD.md",
+    "Unity/Fmod/Основные инструменты Fmod.md",
+    "Unity/Fmod/Основные горячие клавиши Fmod.md",
+    "Unity/Fmod/SAD.md",
+    "Unity/Fmod",
+    "Attachments/Pasted image 20240618173027.png",
+    "2024-06-18.md",
     "Untitled.canvas",
     "2024-06-17.md",
     "Unity/Unity Handle Cap.md",
     "Unity/Unity Handles.md",
     "Unity/Unity Gizmos и Handles.md",
-    "Github/Консоль/00 Работа с консолью Git. Заголовок..md",
     "Github/Консоль/Команды.md",
     "Github/Консоль/Клонирование репозитория.md",
     "Github/Консоль/Git Clone.md",
@@ -231,29 +244,16 @@
     "Github/Регистрация на GitHub..md",
     "Шарп/List.md",
     "Шарп/Динамические коллекции в шарпе.md",
-    "Шарп/00. Шарп заголовок.md",
-    "Шарп/Удобная работа с массивами.md",
-    "Шарп/Как добавить новое значение в массив.md",
-    "Шарп/Что делать с многомерными массивами и как их перебирать..md",
-    "Шарп/Цикл Foreach.md",
-    "Unity/00 Оглавление.md",
-    "Шарп/Циклы и массивы.md",
-    "Шарп/Массивы данных.md",
-    "Шарп/Многомерные массивы.md",
     "Attachments/Pasted image 20240617200646.png",
-    "Unity/Пример создание своих Handless.md",
-    "Базы данных/Установка.md",
     "Attachments/Pasted image 20240616145947.png",
     "Attachments/Pasted image 20240616145852.png",
     "Attachments/Pasted image 20240615180411.png",
     "Unity",
-    "Attachments/Pasted image 20240602143025.png",
     "Базы данных",
     "Attachments",
     "Английский",
     "Тестирование",
     "Теория",
-    "Github",
-    "Шарп"
+    "Github"
   ]
 }
