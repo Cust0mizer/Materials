@@ -8,72 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88e622572b0fcad7",
+            "id": "62e5085d15a8e406",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп/00. Шарп заголовок.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef7de2ffd25e413d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шарп/Динамические коллекции в шарпе.md",
+                "file": "Unity/Fmod/Параметры в Fmod.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c10a94dbccd6daf1",
+            "id": "99c5f9ccecb5206f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github/Консоль/00 Работа с консолью Git. Заголовок..md",
+                "file": "Unity/Fmod/Основные типы параметров в FMOD.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "089febea545a1a52",
+            "id": "56e67b26ac85dcb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github/Консоль/Клонирование репозитория.md",
+                "file": "Unity/Fmod/Основные горячие клавиши Fmod.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "83ce9c15b965c198",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7d36013f552d100d",
+            "id": "70c3f8f84a16fc18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп/Цикл Foreach.md",
-                "mode": "preview",
-                "backlinks": false,
+                "file": "Unity/Fmod/Основные горячие клавиши Fmod.md",
+                "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "ce62badc49e373cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -142,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github/Консоль/Клонирование репозитория.md",
+                "file": "Unity/Fmod/Параметры в Fmod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github/Консоль/Клонирование репозитория.md",
+                "file": "Unity/Fmod/Параметры в Fmod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github/Консоль/Клонирование репозитория.md"
+                "file": "Unity/Fmod/Параметры в Fmod.md"
               }
             }
           },
@@ -221,14 +208,29 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "089febea545a1a52",
+  "active": "62e5085d15a8e406",
   "lastOpenFiles": [
-    "Github/Консоль/Git Clone.md",
+    "Unity/Fmod/SAD.md",
+    "Unity/Fmod/Параметры в Fmod.md",
+    "Unity/Fmod/Основные типы параметров в FMOD.md",
+    "Unity/Fmod/Основные горячие клавиши Fmod.md",
+    "Unity/Fmod/00 Fmod.md",
+    "Unity/Fmod/Основные инструменты Fmod.md",
+    "Unity/Fmod",
+    "Unity/[[Основные.md",
+    "Unity/Основные.md",
+    "Attachments/Pasted image 20240618173027.png",
+    "Unity/Установка Fmod и интеграция его с Unity.md",
+    "Unity/Установка Fmod.md",
+    "Unity/00 Оглавление.md",
+    "2024-06-18.md",
+    "Untitled.canvas",
     "Github/Консоль/Клонирование репозитория.md",
+    "2024-06-17.md",
+    "Github/Консоль/Git Clone.md",
     "Attachments/Pasted image 20240617210111.png",
     "Attachments/Pasted image 20240617210057.png",
     "Github/Консоль",
@@ -247,32 +249,16 @@
     "Шарп/Удобная работа с массивами.md",
     "Шарп/Как добавить новое значение в массив.md",
     "Шарп/Что делать с многомерными массивами и как их перебирать..md",
-    "Шарп/Цикл Foreach.md",
-    "Unity/00 Оглавление.md",
-    "Шарп/Циклы и массивы.md",
-    "Шарп/Массивы данных.md",
-    "Шарп/Многомерные массивы.md",
     "Attachments/Pasted image 20240617200646.png",
-    "Unity/Unity Handles.md",
-    "Unity/Unity Handle Cap.md",
-    "Unity/Пример создание своих Handless.md",
-    "2024-06-17.md",
-    "Unity/Unity Gizmos и Handles.md",
-    "Базы данных/Установка.md",
-    "Unity/Unity Vector Graphics.md",
-    "Unity/Unity Gizmos.md",
     "Attachments/Pasted image 20240616145947.png",
     "Attachments/Pasted image 20240616145852.png",
     "Attachments/Pasted image 20240615180411.png",
     "Unity",
-    "Untitled.canvas",
-    "Attachments/Pasted image 20240602143025.png",
     "Базы данных",
     "Attachments",
     "Английский",
     "Тестирование",
     "Теория",
-    "Github",
-    "Шарп"
+    "Github"
   ]
 }
