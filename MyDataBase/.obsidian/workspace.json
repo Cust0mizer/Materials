@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github/Консоль/Клонирование репозитория.md",
+                "file": "2024-06-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,25 +58,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "83ce9c15b965c198",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7d36013f552d100d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шарп/Цикл Foreach.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github/Консоль/Клонирование репозитория.md",
+                "file": "Шарп/00. Шарп заголовок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github/Консоль/Клонирование репозитория.md",
+                "file": "Шарп/00. Шарп заголовок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github/Консоль/Клонирование репозитория.md"
+                "file": "Шарп/00. Шарп заголовок.md"
               }
             }
           },
@@ -225,14 +207,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "089febea545a1a52",
+  "active": "1db4b91f61f2a95f",
   "lastOpenFiles": [
-    "Github/Консоль/Git Clone.md",
+    "Untitled.canvas",
+    "2024-06-17.md",
+    "Unity/Unity Handle Cap.md",
+    "Unity/Unity Handles.md",
+    "Unity/Unity Gizmos и Handles.md",
+    "Github/Консоль/00 Работа с консолью Git. Заголовок..md",
+    "Github/Консоль/Команды.md",
     "Github/Консоль/Клонирование репозитория.md",
+    "Github/Консоль/Git Clone.md",
     "Attachments/Pasted image 20240617210111.png",
     "Attachments/Pasted image 20240617210057.png",
     "Github/Консоль",
-    "Github/Консоль/00 Работа с консолью Git. Заголовок..md",
     "Github/Консоль/Добавления user name и user email.md",
     "Attachments/Pasted image 20240617210000.png",
     "Attachments/Pasted image 20240617205958.png",
@@ -253,19 +241,12 @@
     "Шарп/Массивы данных.md",
     "Шарп/Многомерные массивы.md",
     "Attachments/Pasted image 20240617200646.png",
-    "Unity/Unity Handles.md",
-    "Unity/Unity Handle Cap.md",
     "Unity/Пример создание своих Handless.md",
-    "2024-06-17.md",
-    "Unity/Unity Gizmos и Handles.md",
     "Базы данных/Установка.md",
-    "Unity/Unity Vector Graphics.md",
-    "Unity/Unity Gizmos.md",
     "Attachments/Pasted image 20240616145947.png",
     "Attachments/Pasted image 20240616145852.png",
     "Attachments/Pasted image 20240615180411.png",
     "Unity",
-    "Untitled.canvas",
     "Attachments/Pasted image 20240602143025.png",
     "Базы данных",
     "Attachments",
