@@ -38,26 +38,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Fmod/00 Fmod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58fa2400fda665c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-06-18.md",
+                "file": "2024-06-19.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-18.md",
+                "file": "2024-06-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-18.md",
+                "file": "2024-06-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-18.md"
+                "file": "2024-06-19.md"
               }
             }
           },
@@ -206,10 +194,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58fa2400fda665c8",
+  "active": "c10a94dbccd6daf1",
   "lastOpenFiles": [
-    "Unity/Fmod/FMOD API.md",
     "Unity/Fmod/00 Fmod.md",
+    "2024-06-19.md",
+    "Untitled.canvas",
+    "2024-06-18.md",
+    "Unity/Fmod/FMOD API.md",
     "Github/Консоль/00 Работа с консолью Git. Заголовок..md",
     "conflict-files-obsidian-git.md",
     "Шарп/00. Шарп заголовок.md",
@@ -222,8 +213,6 @@
     "Unity/Fmod/SAD.md",
     "Unity/Fmod",
     "Attachments/Pasted image 20240618173027.png",
-    "2024-06-18.md",
-    "Untitled.canvas",
     "2024-06-17.md",
     "Unity/Unity Handle Cap.md",
     "Unity/Unity Handles.md",
@@ -243,7 +232,6 @@
     "Github/Установка технологии Git на ПК..md",
     "Github/Регистрация на GitHub..md",
     "Шарп/List.md",
-    "Шарп/Динамические коллекции в шарпе.md",
     "Attachments/Pasted image 20240617200646.png",
     "Attachments/Pasted image 20240616145947.png",
     "Attachments/Pasted image 20240616145852.png",
