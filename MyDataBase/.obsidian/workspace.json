@@ -38,14 +38,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-19.md",
+                "file": "Шарп/00. Шарп заголовок.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddaf6222faf7d26c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шарп/Динамические коллекции в шарпе.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "806e290129f7c10c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шарп/Dictionary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-19.md",
+                "file": "Шарп/Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-19.md",
+                "file": "Шарп/Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-19.md"
+                "file": "Шарп/Dictionary.md"
               }
             }
           },
@@ -194,22 +218,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c10a94dbccd6daf1",
+  "active": "806e290129f7c10c",
   "lastOpenFiles": [
-    "Unity/Fmod/00 Fmod.md",
-    "2024-06-18.md",
-    "2024-06-19.md",
+    "Шарп/Динамические коллекции в шарпе.md",
+    "Шарп/Dictionary.md",
+    "Шарп/00. Шарп заголовок.md",
     "Unity/Fmod/FMOD API.md",
+    "Unity/Fmod/00 Fmod.md",
+    "Unity/Fmod/Основные типы параметров в FMOD.md",
+    "Unity/Fmod/Параметры в Fmod.md",
+    "Unity/Fmod/SAD.md",
+    "2024-06-19.md",
+    "2024-06-18.md",
     "Github/Консоль/00 Работа с консолью Git. Заголовок..md",
     "conflict-files-obsidian-git.md",
-    "Шарп/00. Шарп заголовок.md",
     "Unity/Установка Fmod.md",
     "Unity/Установка Fmod и интеграция его с Unity.md",
-    "Unity/Fmod/Параметры в Fmod.md",
-    "Unity/Fmod/Основные типы параметров в FMOD.md",
     "Unity/Fmod/Основные инструменты Fmod.md",
     "Unity/Fmod/Основные горячие клавиши Fmod.md",
-    "Unity/Fmod/SAD.md",
     "Unity/Fmod",
     "Attachments/Pasted image 20240618173027.png",
     "Untitled.canvas",
@@ -230,8 +256,6 @@
     "Github/00 Github Заголовок.md",
     "Untitled",
     "Github/Установка технологии Git на ПК..md",
-    "Github/Регистрация на GitHub..md",
-    "Шарп/List.md",
     "Attachments/Pasted image 20240617200646.png",
     "Attachments/Pasted image 20240616145947.png",
     "Attachments/Pasted image 20240616145852.png",
