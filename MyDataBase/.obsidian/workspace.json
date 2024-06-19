@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88e622572b0fcad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шарп/00. Шарп заголовок.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef7de2ffd25e413d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп/Динамические коллекции в шарпе.md",
+                "file": "Шарп/Методы Общая инфа/Ключевое слово Params.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,62 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп/00. Шарп заголовок.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7de055745ca8ff62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шарп/Именованные параметры метода.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01f91787359a3d33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шарп/Методы Общая инфа/Методы в шарпе.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca960b4679c8c773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шарп/Методы Общая инфа/Перегрузка методов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c800be909fbb94b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шарп/Методы для работы со словарем.md",
+                "file": "Шарп/Методы Общая инфа/00Методы оглавление.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шарп/Именованные параметры метода.md",
+                "file": "Шарп/Методы Общая инфа/Ключевое слово Params.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шарп/Именованные параметры метода.md",
+                "file": "Шарп/Методы Общая инфа/Ключевое слово Params.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шарп/Именованные параметры метода.md"
+                "file": "Шарп/Методы Общая инфа/Ключевое слово Params.md"
               }
             }
           },
@@ -224,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,19 +180,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7de055745ca8ff62",
+  "active": "ef7de2ffd25e413d",
   "lastOpenFiles": [
+    "Шарп/Методы Общая инфа/00Методы оглавление.md",
+    "Шарп/Динамические коллекции в шарпе.md",
     "Шарп/00. Шарп заголовок.md",
-    "Шарп/Именованные параметры метода.md",
-    "Шарп/Методы Общая инфа/Методы в шарпе.md",
-    "Шарп/Методы Общая инфа/Перегрузка методов.md",
+    "Шарп/Методы Общая инфа/Ключевое слово Params.md",
+    "Шарп/Методы Общая инфа/Именованные параметры метода.md",
     "Шарп/Методы Общая инфа/Необязательные параметры метода.md",
+    "Шарп/Методы Общая инфа/Перегрузка методов.md",
+    "Шарп/Методы Общая инфа/Методы в шарпе.md",
     "Шарп/List.md",
     "Шарп/Untitled.md",
     "Шарп/Методы для работы со словарем.md",
     "Шарп/Методы Общая инфа",
     "Шарп/Модификаторы доступа в шарпе..md",
-    "Шарп/Динамические коллекции в шарпе.md",
     "Шарп/HashSet.md",
     "Шарп/Dictionary.md",
     "Unity/Fmod/FMOD API.md",
@@ -269,11 +209,9 @@
     "Unity/Установка Fmod.md",
     "Unity/Установка Fmod и интеграция его с Unity.md",
     "Unity/Fmod/Основные инструменты Fmod.md",
-    "Unity/Fmod/Основные горячие клавиши Fmod.md",
     "Unity/Fmod",
     "Attachments/Pasted image 20240618173027.png",
     "Untitled.canvas",
-    "2024-06-17.md",
     "Attachments/Pasted image 20240617210111.png",
     "Attachments/Pasted image 20240617210057.png",
     "Github/Консоль",
