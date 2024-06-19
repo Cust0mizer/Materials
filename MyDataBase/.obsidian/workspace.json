@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп/Методы Общая инфа/Методы в шарпе.md",
+                "file": "Github/Сайт Github/Поиск по сайту.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шарп/Методы Общая инфа/00Методы оглавление.md",
+                "file": "Github/Сайт Github/Поиск по сайту.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шарп/Методы Общая инфа/00Методы оглавление.md",
+                "file": "Github/Сайт Github/Поиск по сайту.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шарп/Методы Общая инфа/00Методы оглавление.md"
+                "file": "Github/Сайт Github/Поиск по сайту.md"
               }
             }
           },
@@ -205,15 +205,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc7625b17e1a355a",
+  "active": "fd82674ccfd2e298",
   "lastOpenFiles": [
+    "Шарп/Методы Общая инфа/00Методы оглавление.md",
+    "Github/Сайт Github/Поиск по сайту.md",
+    "Github/Сайт Github",
     "Unity/Частицы/Particle System",
     "Unity/Частицы/VFX graph",
     "Unity/Частицы",
     "Шарп/Методы Общая инфа/Перегрузка методов.md",
     "Шарп/Методы Общая инфа/Что такое метод.md",
     "Шарп/Методы Общая инфа/Методы в шарпе.md",
-    "Шарп/Методы Общая инфа/00Методы оглавление.md",
     "Github/Консоль/Команды.md",
     "2024-06-19.md",
     "Тестирование/Теория тестирования/00 Теория тестирования заголовок.md",
@@ -251,8 +253,6 @@
     "Attachments/Pasted image 20240617200646.png",
     "Attachments/Pasted image 20240616145947.png",
     "Attachments/Pasted image 20240616145852.png",
-    "Attachments/Pasted image 20240615180411.png",
-    "Unity",
-    "Базы данных"
+    "Attachments/Pasted image 20240615180411.png"
   ]
 }
