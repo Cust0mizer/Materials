@@ -45,24 +45,12 @@
             }
           },
           {
-            "id": "ddaf6222faf7d26c",
+            "id": "01f91787359a3d33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп/Динамические коллекции в шарпе.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43691c8056cdf848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шарп/HashSet.md",
+                "file": "Шарп/Методы в шарпе.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шарп/HashSet.md",
+                "file": "Шарп/Методы в шарпе.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шарп/HashSet.md",
+                "file": "Шарп/Методы в шарпе.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шарп/HashSet.md"
+                "file": "Шарп/Методы в шарпе.md"
               }
             }
           },
@@ -230,13 +218,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43691c8056cdf848",
+  "active": "01f91787359a3d33",
   "lastOpenFiles": [
+    "Шарп/00. Шарп заголовок.md",
+    "Шарп/Методы в шарпе.md",
     "Шарп/Динамические коллекции в шарпе.md",
     "Шарп/HashSet.md",
     "Шарп/Dictionary.md",
     "Шарп/Методы для работы со словарем.md",
-    "Шарп/00. Шарп заголовок.md",
     "Unity/Fmod/FMOD API.md",
     "Unity/Fmod/00 Fmod.md",
     "Unity/Fmod/Основные типы параметров в FMOD.md",
@@ -263,7 +252,6 @@
     "Attachments/Pasted image 20240617210111.png",
     "Attachments/Pasted image 20240617210057.png",
     "Github/Консоль",
-    "Github/Консоль/Добавления user name и user email.md",
     "Attachments/Pasted image 20240617210000.png",
     "Attachments/Pasted image 20240617205958.png",
     "Attachments/Pasted image 20240617205943.png",
