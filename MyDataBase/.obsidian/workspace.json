@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "fd82674ccfd2e298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шарп/Методы Общая инфа/Методы в шарпе.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c10a94dbccd6daf1",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,8 +205,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d91f1915d94b38b4",
+  "active": "fc7625b17e1a355a",
   "lastOpenFiles": [
+    "Unity/Частицы/Particle System",
+    "Unity/Частицы/VFX graph",
+    "Unity/Частицы",
+    "Шарп/Методы Общая инфа/Перегрузка методов.md",
     "Шарп/Методы Общая инфа/Что такое метод.md",
     "Шарп/Методы Общая инфа/Методы в шарпе.md",
     "Шарп/Методы Общая инфа/00Методы оглавление.md",
@@ -215,7 +231,6 @@
     "Шарп/00. Шарп заголовок.md",
     "Шарп/Методы Общая инфа/Именованные параметры метода.md",
     "Шарп/Методы Общая инфа/Необязательные параметры метода.md",
-    "Шарп/Методы Общая инфа/Перегрузка методов.md",
     "Шарп/List.md",
     "Шарп/Untitled.md",
     "Шарп/Методы для работы со словарем.md",
@@ -223,7 +238,6 @@
     "Шарп/Модификаторы доступа в шарпе..md",
     "Шарп/HashSet.md",
     "Шарп/Dictionary.md",
-    "Unity/Fmod/FMOD API.md",
     "Unity/Fmod",
     "Attachments/Pasted image 20240618173027.png",
     "Untitled.canvas",
@@ -239,8 +253,6 @@
     "Attachments/Pasted image 20240616145852.png",
     "Attachments/Pasted image 20240615180411.png",
     "Unity",
-    "Базы данных",
-    "Attachments",
-    "Английский"
+    "Базы данных"
   ]
 }
