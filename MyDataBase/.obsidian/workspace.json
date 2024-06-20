@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп/Что такое null/Что такое Null.md",
+                "file": "Шарп/Что такое null/Оператор объединения с Null.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шарп/Что такое null/Что такое Null.md",
+                "file": "Шарп/Что такое null/Оператор объединения с Null.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шарп/Что такое null/Что такое Null.md",
+                "file": "Шарп/Что такое null/Оператор объединения с Null.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шарп/Что такое null/Что такое Null.md"
+                "file": "Шарп/Что такое null/Оператор объединения с Null.md"
               }
             }
           },
@@ -208,8 +208,9 @@
   },
   "active": "7153412763d26ac3",
   "lastOpenFiles": [
-    "Шарп/00. Шарп заголовок.md",
     "Шарп/Что такое null/Что такое Null.md",
+    "Шарп/Что такое null/Оператор объединения с Null.md",
+    "Шарп/00. Шарп заголовок.md",
     "Шарп/Коллекции в шарпе/Статические/Массивы данных.md",
     "Шарп/Что такое null",
     "Шарп/Условные конструкции в шарпе",
@@ -246,7 +247,6 @@
     "Github/Регистрация на GitHub..md",
     "Untitled.canvas",
     "2024-06-19.md",
-    "Шарп/Методы Общая инфа/Перегрузка методов.md",
     "Шарп/Методы Общая инфа",
     "Attachments/Pasted image 20240618173027.png",
     "Attachments/Pasted image 20240617210111.png",
