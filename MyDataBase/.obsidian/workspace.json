@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-20.md",
+                "file": "Github/Консоль/Gitignore/Шаблоны Gitignore.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-20.md",
+                "file": "Github/Консоль/Gitignore/Шаблоны Gitignore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-20.md",
+                "file": "Github/Консоль/Gitignore/Шаблоны Gitignore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-20.md"
+                "file": "Github/Консоль/Gitignore/Шаблоны Gitignore.md"
               }
             }
           },
@@ -208,6 +208,7 @@
   },
   "active": "7153412763d26ac3",
   "lastOpenFiles": [
+    "2024-06-20.md",
     "Github/Консоль/Gitignore/Шаблоны Gitignore.md",
     "Github/Консоль/Gitignore/00 Gitignore.md",
     "Github/Консоль/Gitignore/Игнорирование файлов.md",
@@ -216,7 +217,6 @@
     "Attachments/Pasted image 20240620082304.png",
     "Attachments/Pasted image 20240620082254.png",
     "Github/Консоль/00 Работа с консолью Git. Заголовок.md",
-    "2024-06-20.md",
     "Github/Консоль/Команды/00 Команды.md",
     "Github/Консоль/Команды/Git Clone.md",
     "Github/Консоль/Команды",
