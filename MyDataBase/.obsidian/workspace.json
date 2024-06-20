@@ -26,14 +26,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github/Консоль/Команды/00 Команды.md",
+                "file": "Github/Консоль/00 Работа с консолью Git. Заголовок.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c5d7a95f579c1c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github/Консоль/Gitignore/00 Gitignore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b070533f2060d9c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github/Консоль/Gitignore/Игнорирование файлов.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github/Консоль/Команды/00 Команды.md",
+                "file": "Github/Консоль/Gitignore/Игнорирование файлов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github/Консоль/Команды/00 Команды.md",
+                "file": "Github/Консоль/Gitignore/Игнорирование файлов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github/Консоль/Команды/00 Команды.md"
+                "file": "Github/Консоль/Gitignore/Игнорирование файлов.md"
               }
             }
           },
@@ -182,18 +206,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc7625b17e1a355a",
+  "active": "b070533f2060d9c3",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240620082437.png",
+    "Github/Консоль/Gitignore/00 Gitignore.md",
+    "Github/Консоль/Gitignore/Игнорирование файлов.md",
+    "Github/Консоль/Gitignore",
+    "Attachments/Pasted image 20240620082304.png",
+    "Attachments/Pasted image 20240620082254.png",
+    "Github/Консоль/00 Работа с консолью Git. Заголовок.md",
+    "2024-06-20.md",
+    "Github/Консоль/Команды/00 Команды.md",
     "Github/Консоль/Команды/Git Clone.md",
     "Github/Консоль/Команды",
-    "Github/Консоль/Команды/00 Команды.md",
     "Github/Консоль/Клонирование репозитория.md",
     "Github/Консоль/Добавления user name и user email.md",
-    "Github/Консоль/00 Работа с консолью Git. Заголовок.md",
     "Github/Установка технологии Git на ПК..md",
     "Github/Регистрация на GitHub..md",
     "Github/00 Github Заголовок.md",
-    "2024-06-20.md",
     "Untitled.canvas",
     "2024-06-19.md",
     "Шарп/Методы Общая инфа/Перегрузка методов.md",
@@ -210,9 +240,6 @@
     "Тестирование/Теория тестирования/Виды тестирования/По степени автоматизации.md",
     "Тестирование/Теория тестирования/Виды тестирования/По принципам работы с приложением.md",
     "Тестирование/Теория тестирования/Виды тестирования/По запуску кода на исполнение..md",
-    "Тестирование/Теория тестирования/Виды тестирования/По доступу к архитектуре.md",
-    "Тестирование/Теория тестирования/Виды тестирования/В зависимости от целей тестирования.md",
-    "Тестирование/Теория тестирования/Виды тестирования/В зависимости от исполнителей.md",
     "Тестирование/Теория тестирования/Виды тестирования",
     "Тестирование/Теория тестирования",
     "Unity/Fmod",
@@ -226,10 +253,7 @@
     "Untitled",
     "Attachments/Pasted image 20240617200646.png",
     "Attachments/Pasted image 20240616145947.png",
-    "Attachments/Pasted image 20240616145852.png",
-    "Attachments/Pasted image 20240615180411.png",
     "Unity",
-    "Базы данных",
-    "Attachments"
+    "Базы данных"
   ]
 }
