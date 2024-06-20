@@ -10,3 +10,4 @@
 ==git rm --cached fileName==
 
 [[Игнорирование файлов]]
+[[Шаблоны Gitignore]]

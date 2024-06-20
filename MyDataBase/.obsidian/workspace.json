@@ -45,12 +45,12 @@
             }
           },
           {
-            "id": "b070533f2060d9c3",
+            "id": "7153412763d26ac3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github/Консоль/Gitignore/Игнорирование файлов.md",
+                "file": "2024-06-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github/Консоль/Gitignore/Игнорирование файлов.md",
+                "file": "2024-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github/Консоль/Gitignore/Игнорирование файлов.md",
+                "file": "2024-06-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github/Консоль/Gitignore/Игнорирование файлов.md"
+                "file": "2024-06-20.md"
               }
             }
           },
@@ -206,11 +206,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b070533f2060d9c3",
+  "active": "7153412763d26ac3",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240620082437.png",
+    "Github/Консоль/Gitignore/Шаблоны Gitignore.md",
     "Github/Консоль/Gitignore/00 Gitignore.md",
     "Github/Консоль/Gitignore/Игнорирование файлов.md",
+    "Attachments/Pasted image 20240620082437.png",
     "Github/Консоль/Gitignore",
     "Attachments/Pasted image 20240620082304.png",
     "Attachments/Pasted image 20240620082254.png",
@@ -252,7 +253,6 @@
     "Attachments/Pasted image 20240617205943.png",
     "Untitled",
     "Attachments/Pasted image 20240617200646.png",
-    "Attachments/Pasted image 20240616145947.png",
     "Unity",
     "Базы данных"
   ]
