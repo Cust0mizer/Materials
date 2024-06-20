@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /MyDataBase/conflict-files-obsidian-git.md
+/MyDataBase/.obsidian/workspace.json
