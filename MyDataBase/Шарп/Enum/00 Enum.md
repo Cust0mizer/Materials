@@ -59,3 +59,33 @@ public class EnumProblemExample {
 Таким образом, полученное значение от пользователя, если оно входит в рамки нашего энама, к примеру если пользователь введёт 1, то в переменную operation присвоиться значение энама которое равно 1, эти значения мы указываем при создание энама.
 
 Теперь при создании свитча, и вставки в него значения, если мы кликнем по свободному месту, то наш свитч автоматически заполнится всеми возможными значениями энама и мы сможем прописать к ним действия.
+
+```Csharp
+        if (int.TryParse(Console.ReadLine(), out int inputValue)) {
+            OperationType operationType = (OperationType)inputValue;
+
+            switch (operationType) {
+                case OperationType.None:
+                    break;
+                case OperationType.Sum:
+                    break;
+                case OperationType.Minus:
+                    break;
+                case OperationType.Multiply:
+                    break;
+                case OperationType.Divide:
+                    break;
+            }
+        }
+```
+
+Таким образом, подобные записи выглядят намного лучше, и удобнее читаются, чем обычные числовые значения.
+
+В c# есть стандартные энамы, к примеру
+```Csharp
+        DayOfWeek dayOfWeek = DayOfWeek.Monday;
+        ConsoleKey consoleKey = ConsoleKey.None;
+```
+Которые обозначают собой день недели и клавишу, на которую нажал пользователь.
+
+[[Удобная работа с Enum]]
