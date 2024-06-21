@@ -1,7 +1,7 @@
 Switch case – Гораздо удобнее для множественных проверок на совпадение особенно при использовании [[Enum]].
 
 В c# - Есть стандартный [[Enum]], для представления дня недели, что это такое поговорим позже, а пока просто воспользуемся им.
-```Csharp
+```CSharp
 private static void ChangeDay(DayOfWeek dayOfWeek) {
     switch (dayOfWeek) {
         case DayOfWeek.Sunday:/*Код пишут тут*/ break;
