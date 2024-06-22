@@ -4,7 +4,8 @@
 [[Добавления user name и user email]]
 [[Клонирование репозитория]]
 [[Git init и Git status]]
-[[Добавление файлов, коммит, пуш. Git Commit, Git add, Git push]]
+[[Добавление файлов, коммит, пуш. Git commit, git add, git push]]
+[[Изменение последнего коммита. Git amend]]
 
 
 
