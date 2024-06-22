@@ -3,5 +3,9 @@
 [[00 Команды]]
 [[Добавления user name и user email]]
 [[Клонирование репозитория]]
+[[Git init и Git status]]
+[[Добавление файлов, коммит, пуш. Git Commit, Git add, Git push]]
+
+
 
 [[00 Gitignore]]
