@@ -6,8 +6,7 @@
 >        connection_area AS area,
 >        percent_of_discount AS discount
 > FROM buyer
-> LIMIT 7
-> OFFSET 9
+> LIMIT 7OFFSET 9
 
 Отступит первые 9 записей и выведет 7, получается будет выведены все записи с 10 по 16
 Или
