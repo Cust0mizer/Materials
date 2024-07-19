@@ -10,4 +10,4 @@ GROUP BY connection_area
 ORDER BY AVG(age);
 ```
 
-[[Изменение порядка сортировки]]
+[[Изменение порядка сортировки ORDER BY]]
