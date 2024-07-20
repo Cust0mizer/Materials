@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "3b214e75f73038b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da40ebf894e0f58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdbd8aff750a8c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собесы/Мои вопросы.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "578d3580ecdfd7d5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0f042b6caeb422a0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d164416a09efc343",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3fcb3cc13a8a175b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "94eaa53e97c91eea",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "0a6bd60c548ca4bf",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7ca3c2bb7c4174bc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "21e8e61c02c31e7f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Собесы/Мои вопросы.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0ec691e65f419152",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Собесы/Мои вопросы.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3a9251b35af0b4b5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Собесы/Мои вопросы.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
+    }
+  },
+  "active": "cdbd8aff750a8c15",
+  "lastOpenFiles": [
+    "Работа.md",
+    "Базы данных/SQL Language/Группировка и агрегации/DISTINCT.md"
+  ]
+}
