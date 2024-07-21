@@ -6,5 +6,12 @@ Join - Это оператор объединения данных из 2х та
 
 ```SQL
 SELECT Company.name, Trip.plane
-FROM Trip JOIN Company ON Trip.company = Company.id;
+FROM Trip JOIN Company 
+ON Trip.company = Company.id;
 ```
+
+Есть разные способы подключения таблиц друг к другу:
+[[INNEAR JOIN]]
+[[LEFT JOIN или LEFT OUTER JOIN]]
+[[RIGHT JOIN или RIGHT OUTER JOIN]]
+[[OUTER JOIN или FULL JOIN]]
