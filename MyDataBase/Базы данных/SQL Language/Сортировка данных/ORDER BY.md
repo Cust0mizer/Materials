@@ -11,3 +11,15 @@ ORDER BY AVG(age);
 ```
 
 [[Изменение порядка сортировки ORDER BY]]
+
+
+
+
+
+SELECT date, 
+MAX(radius),
+MIN(radius)
+FROM pizza
+GROUP BY date
+HAVING DATE_TRUNC('month', date) = '2022-03-01'
+ORDER BY MAX(radius) DESC, MIN(radius) DESC

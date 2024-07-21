@@ -19,5 +19,3 @@ EXTRACT(отрезок времени FROM поле)
 | MINUTE     | Минута                                                 |
 | SECOND     | Секунда                                                |
 | MILISECODN | Милисекунда                                            |
-
-
