@@ -19,15 +19,3 @@ EXTRACT(отрезок времени FROM поле)
 | MINUTE     | Минута                                                 |
 | SECOND     | Секунда                                                |
 | MILISECODN | Милисекунда                                            |
-
-
-
-
-SELECT 
-MAX(price * quantity),
-bracelet_id
-FROM pizza
-WHERE EXTRACT(WEEK FROM date) = 3
-GROUP BY bracelet_id
-ORDER BY  MAX(price * quantity) DESC
-LIMIT 3
