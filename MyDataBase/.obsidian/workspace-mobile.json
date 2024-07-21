@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Собесы/Мои вопросы.md",
+                "file": "Базы данных/SQL Language/Фильтрация данных/Работа с датами/EXTRACT.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Собесы/Мои вопросы.md",
+            "file": "Базы данных/SQL Language/Фильтрация данных/Работа с датами/EXTRACT.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Собесы/Мои вопросы.md",
+            "file": "Базы данных/SQL Language/Фильтрация данных/Работа с датами/EXTRACT.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Собесы/Мои вопросы.md"
+            "file": "Базы данных/SQL Language/Фильтрация данных/Работа с датами/EXTRACT.md"
           }
         }
       }
@@ -147,9 +147,9 @@
   },
   "active": "cdbd8aff750a8c15",
   "lastOpenFiles": [
-    "Базы данных/SQL Language/Шпаргалка по фильтрации.md",
     "Собесы/Мои вопросы.md",
-    "Работа.md",
-    "Базы данных/SQL Language/Группировка и агрегации/DISTINCT.md"
+    "Базы данных/SQL Language/Группировка и агрегации/DISTINCT.md",
+    "Базы данных/SQL Language/Шпаргалка по фильтрации.md",
+    "Работа.md"
   ]
 }
