@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базы данных/SQL Language/Соединения таблиц SQL/RIGHT JOIN или RIGHT OUTER JOIN.md",
+                "file": "Поиск работы/Собесы/Мои вопросы.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Базы данных/SQL Language/Соединения таблиц SQL/RIGHT JOIN или RIGHT OUTER JOIN.md",
+            "file": "Поиск работы/Собесы/Мои вопросы.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Базы данных/SQL Language/Соединения таблиц SQL/RIGHT JOIN или RIGHT OUTER JOIN.md",
+            "file": "Поиск работы/Собесы/Мои вопросы.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Базы данных/SQL Language/Соединения таблиц SQL/RIGHT JOIN или RIGHT OUTER JOIN.md"
+            "file": "Поиск работы/Собесы/Мои вопросы.md"
           }
         }
       }
@@ -147,10 +147,12 @@
   },
   "active": "cdbd8aff750a8c15",
   "lastOpenFiles": [
+    "Поиск работы/Собесы/Резюме.md",
+    "Работа.md",
+    "Базы данных/SQL Language/Соединения таблиц SQL/RIGHT JOIN или RIGHT OUTER JOIN.md",
     "Базы данных/SQL Language/Фильтрация данных/Работа с датами/EXTRACT.md",
     "Собесы/Мои вопросы.md",
     "Базы данных/SQL Language/Группировка и агрегации/DISTINCT.md",
-    "Базы данных/SQL Language/Шпаргалка по фильтрации.md",
-    "Работа.md"
+    "Базы данных/SQL Language/Шпаргалка по фильтрации.md"
   ]
 }
