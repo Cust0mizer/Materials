@@ -7,7 +7,7 @@
 [[Добавление файлов, коммит, пуш. Git commit, git add, git push]]
 [[Изменение последнего коммита. Git amend]]
 [[Обновление своего репозитория. Git fetch, git pull]]
-
+[[Submodules]]
 
 
 [[00 Gitignore]]
