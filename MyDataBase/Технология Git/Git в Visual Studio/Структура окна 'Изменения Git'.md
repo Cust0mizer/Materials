@@ -5,7 +5,7 @@
 ![[Pasted image 20240802163348.png]]
 
 Рассмотрим структуру этого окна.
-Выбор ветки и основные команды. [[Git fetch|Fetch]], [[Git pull|Pull]], [[Git push|Push]].
+Выбор ветки и основные команды. [[Git fetch|Fetch]], [[Git pull|Pull]], [[git push|Push]].
 ![[Pasted image 20240802163737.png#center]]
 
 Окно для комментариев вовремя Commit-а.
