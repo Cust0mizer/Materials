@@ -2,5 +2,8 @@
   "table-editor-obsidian",
   "obsidian-git",
   "cmenu-plugin",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "obsidian-latex-suite",
+  "plot-vectors-graphs",
+  "obsidian-functionplot"
 ]

@@ -3,3 +3,6 @@
 
 [[Регистрация на GitHub.]]
 [[Установка технологии Git на ПК.]]
+
+
+git config --global credential.<URL>.username <USERNAME>
