@@ -1,0 +1,1 @@
+Рассказать про virtual box и vmware
