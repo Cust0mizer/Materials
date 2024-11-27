@@ -1,3 +1,5 @@
+git checkout .
+git clean -f -d
 git fetch
 git pull
 git status
