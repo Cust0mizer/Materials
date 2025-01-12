@@ -34,6 +34,6 @@ They are talking about politics - Они говорят о политике
 Вопросительное будет таким
 Are they talking about politics - Они говоря о политике?
 ## Специальные вопросы
-[[Специальные вопросы - Вопросительные слова]]
+[[Вопросительные слова]]
 What are they talking about? - О чем они говорят?
 What are they doing? - Чем они занимаются?
