@@ -1,4 +1,4 @@
-Глагол [[To Be]] - В прошедшем времени
+# Глагол [[To Be]] - В Past Simple
 Was - I, He, She, It - Был/Была
 Were - We, You, They - Были
 
