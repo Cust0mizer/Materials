@@ -26,4 +26,31 @@
 ![[Pasted image 20250130121337.png]]
 Fmod Studio Project - Мы укажем ссылку на наш проект, в таком случае сам проект должен мигрировать с нашим репозиторием, иначе на новом устройстве мы просто не найдем проект который мы указали
 Single platform build - Хорошо только когда у нас есть одна целевая платформа, в моем случае это не подходит поскольку я буду собирать банки под несколько платформ.
-Multiple Platform Build - То что нужно, но стоит знать что папка с собранными �
+Multiple Platform Build - То что нужно, но стоит знать что папка с собранными банками должна быть в проекте. 
+
+Дальше заменяем обычный проигрыватель звуков на фмодовский.
+![[Pasted image 20250130121626.png]]
+
+И в конце обновляем наш GitIgnore 
+![[Pasted image 20250130121724.png]]
+
+
+```gitignore
+# Never ignore DLLs in the FMOD subfolder.
+!/[Aa]ssets/Plugins/FMOD/**/lib/*
+
+# Don't ignore images and gizmos used by FMOD in the Unity Editor.
+!/[Aa]ssets/Gizmos/FMOD/*
+!/[Aa]ssets/Editor Default Resources/FMOD/*
+
+# Ignore the Cache folder since it is updated locally.
+/[Aa]ssets/Plugins/FMOD/Cache/*
+
+# Ignore bank files in the StreamingAssets folder.
+/[Aa]ssets/StreamingAssets/**/*.bank
+/[Aa]ssets/StreamingAssets/**/*.bank.meta
+
+# If the source bank files are kept outside of the StreamingAssets folder then these can be ignored.
+# Log files can be ignored.
+fmod_editor.log
+```
